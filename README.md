@@ -208,3 +208,9 @@ BEGIN
 END$$
 
 DELIMITER ;
+
+## ETAPA 7 -
+
+-- IMAGEM --
+
+![FT1]()
