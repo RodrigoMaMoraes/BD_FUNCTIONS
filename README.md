@@ -213,4 +213,4 @@ DELIMITER ;
 
 -- IMAGEM --
 
-![FT1]()
+![FT1](https://github.com/RodrigoMaMoraes/BD_FUNCTIONS/blob/main/FT1_FUNC.png)
